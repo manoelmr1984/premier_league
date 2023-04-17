@@ -2,7 +2,7 @@
 import streamlit as st
 import requests
 import pandas as pd
-from IPython.core.display import HTML
+#from IPython.core.display import HTML
 
 
 #classe link imagens para HTML
