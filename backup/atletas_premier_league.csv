@@ -1,0 +1,664 @@
+numero_camisa,nome_atleta,posicao_atleta,img_atleta,pais_atleta,id_atleta,id_clube
+1,Mark Travers,Goalkeeper,//resources.premierleague.com/premierleague/photos/players/250x250/p229600.png,Ireland,p229600,127
+13,Neto,Goalkeeper,//resources.premierleague.com/premierleague/photos/players/250x250/p69752.png,Brazil,p69752,127
+45,Cameron Plain,Goalkeeper,//resources.premierleague.com/premierleague/photos/players/250x250/p461012.png,England,p461012,127
+12,Darren Randolph,Goalkeeper,//resources.premierleague.com/premierleague/photos/players/250x250/p32259.png,Ireland,p32259,127
+5,Lloyd Kelly,Defender,//resources.premierleague.com/premierleague/photos/players/250x250/p235530.png,England,p235530,127
+6,Chris Mepham,Defender,//resources.premierleague.com/premierleague/photos/players/250x250/p223911.png,Wales,p223911,127
+15,Adam Smith,Defender,//resources.premierleague.com/premierleague/photos/players/250x250/p54469.png,England,p54469,127
+17,Jack Stacey,Defender,//resources.premierleague.com/premierleague/photos/players/250x250/p154131.png,England,p154131,127
+33,Jordan Zemura,Defender,//resources.premierleague.com/premierleague/photos/players/250x250/p447932.png,Zimbabwe,p447932,127
+2,Ryan Fredericks,Defender,//resources.premierleague.com/premierleague/photos/players/250x250/p81012.png,England,p81012,127
+25,Marcos Senesi,Defender,//resources.premierleague.com/premierleague/photos/players/250x250/p221466.png,Argentina,p221466,127
+43,Ben Greenwood,Defender,//resources.premierleague.com/premierleague/photos/players/250x250/p474772.png,Ireland,p474772,127
+3,Jack Stephens,Defender,//resources.premierleague.com/premierleague/photos/players/250x250/p88900.png,England,p88900,127
+18,Matías Viña,Defender,//resources.premierleague.com/premierleague/photos/players/250x250/p244704.png,Uruguay,p244704,127
+27,Illia Zabarnyi,Defender,//resources.premierleague.com/premierleague/photos/players/250x250/p477580.png,Ukraine,p477580,127
+53,Max Kinsey-Wellings,Defender,//resources.premierleague.com/premierleague/photos/players/250x250/p496683.png,England,p496683,127
+4,Lewis Cook,Midfielder,//resources.premierleague.com/premierleague/photos/players/250x250/p155408.png,England,p155408,127
+7,David Brooks,Midfielder,//resources.premierleague.com/premierleague/photos/players/250x250/p111317.png,Wales,p111317,127
+8,Jefferson Lerma,Midfielder,//resources.premierleague.com/premierleague/photos/players/250x250/p152551.png,Colombia,p152551,127
+10,Ryan Christie,Midfielder,//resources.premierleague.com/premierleague/photos/players/250x250/p158499.png,Scotland,p158499,127
+19,Junior Stanislas,Midfielder,//resources.premierleague.com/premierleague/photos/players/250x250/p56872.png,England,p56872,127
+29,Philip Billing,Midfielder,//resources.premierleague.com/premierleague/photos/players/250x250/p168991.png,Denmark,p168991,127
+14,Joe Rothwell,Midfielder,//resources.premierleague.com/premierleague/photos/players/250x250/p156685.png,England,p156685,127
+16,Marcus Tavernier,Midfielder,//resources.premierleague.com/premierleague/photos/players/250x250/p201658.png,England,p201658,127
+36,Jack Wadham,Midfielder,//resources.premierleague.com/premierleague/photos/players/250x250/p461022.png,England,p461022,127
+48,Ferdinand Okoh,Midfielder,//resources.premierleague.com/premierleague/photos/players/250x250/p556370.png,England,p556370,127
+51,Daniel Adu-Adjei,Midfielder,//resources.premierleague.com/premierleague/photos/players/250x250/p590760.png,England,p590760,127
+22,Hamed Traorè,Midfielder,//resources.premierleague.com/premierleague/photos/players/250x250/p424044.png,Cote D’Ivoire,p424044,127
+9,Dominic Solanke,Forward,//resources.premierleague.com/premierleague/photos/players/250x250/p154566.png,England,p154566,127
+21,Kieffer Moore,Forward,//resources.premierleague.com/premierleague/photos/players/250x250/p128340.png,Wales,p128340,127
+32,Jaidon Anthony,Forward,//resources.premierleague.com/premierleague/photos/players/250x250/p444180.png,England,p444180,127
+49,Dominic Sadi,Forward,//resources.premierleague.com/premierleague/photos/players/250x250/p550596.png,England,p550596,127
+50,Michael Dacosta Gonzalez,Forward,//resources.premierleague.com/premierleague/photos/players/250x250/p596572.png,Spain,p596572,127
+11,Dango Ouattara,Forward,//resources.premierleague.com/premierleague/photos/players/250x250/p533463.png,Burkina Faso,p533463,127
+41,Euan Pollock,Forward,//resources.premierleague.com/premierleague/photos/players/250x250/p461013.png,England,p461013,127
+24,Antoine Semenyo,Forward,//resources.premierleague.com/premierleague/photos/players/250x250/p437730.png,Ghana,p437730,127
+1,Aaron Ramsdale,Goalkeeper,//resources.premierleague.com/premierleague/photos/players/250x250/p225321.png,England,p225321,1
+30,Matt Turner,Goalkeeper,//resources.premierleague.com/premierleague/photos/players/250x250/p224068.png,United States,p224068,1
+26,Karl Hein,Goalkeeper,//resources.premierleague.com/premierleague/photos/players/250x250/p463748.png,Estonia,p463748,1
+56,James Hillson,Goalkeeper,//resources.premierleague.com/premierleague/photos/players/250x250/p233009.png,England,p233009,1
+3,Kieran Tierney,Defender,//resources.premierleague.com/premierleague/photos/players/250x250/p192895.png,Scotland,p192895,1
+4,Ben White,Defender,//resources.premierleague.com/premierleague/photos/players/250x250/p198869.png,England,p198869,1
+6,Gabriel Magalhães,Defender,//resources.premierleague.com/premierleague/photos/players/250x250/p226597.png,Brazil,p226597,1
+16,Rob Holding,Defender,//resources.premierleague.com/premierleague/photos/players/250x250/p156074.png,England,p156074,1
+18,Takehiro Tomiyasu,Defender,//resources.premierleague.com/premierleague/photos/players/250x250/p223723.png,Japan,p223723,1
+12,William Saliba,Defender,//resources.premierleague.com/premierleague/photos/players/250x250/p462424.png,France,p462424,1
+96,Lino Sousa,Defender,//resources.premierleague.com/premierleague/photos/players/250x250/p514315.png,England,p514315,1
+97,Reuell Walters,Defender,//resources.premierleague.com/premierleague/photos/players/250x250/p535262.png,England,p535262,1
+15,Jakub Kiwior,Defender,//resources.premierleague.com/premierleague/photos/players/250x250/p440854.png,Poland,p440854,1
+5,Thomas Partey,Midfielder,//resources.premierleague.com/premierleague/photos/players/250x250/p167199.png,Ghana,p167199,1
+7,Bukayo Saka,Midfielder,//resources.premierleague.com/premierleague/photos/players/250x250/p223340.png,England,p223340,1
+8,Martin Ødegaard,Midfielder,//resources.premierleague.com/premierleague/photos/players/250x250/p184029.png,Norway,p184029,1
+10,Emile Smith Rowe,Midfielder,//resources.premierleague.com/premierleague/photos/players/250x250/p209289.png,England,p209289,1
+25,Mohamed Elneny,Midfielder,//resources.premierleague.com/premierleague/photos/players/250x250/p153256.png,Egypt,p153256,1
+34,Granit Xhaka,Midfielder,//resources.premierleague.com/premierleague/photos/players/250x250/p84450.png,Switzerland,p84450,1
+21,Fábio Vieira,Midfielder,//resources.premierleague.com/premierleague/photos/players/250x250/p438098.png,Portugal,p438098,1
+35,Oleksandr Zinchenko,Midfielder,//resources.premierleague.com/premierleague/photos/players/250x250/p206325.png,Ukraine,p206325,1
+85,Amario Cozier-Duberry,Midfielder,//resources.premierleague.com/premierleague/photos/players/250x250/p519324.png,England,p519324,1
+44,Catalin Cirjan,Midfielder,//resources.premierleague.com/premierleague/photos/players/250x250/p489870.png,Romania,p489870,1
+83,Ethan Nwaneri,Midfielder,//resources.premierleague.com/premierleague/photos/players/250x250/p499175.png,England,p499175,1
+89,Bradley Ibrahim,Midfielder,//resources.premierleague.com/premierleague/photos/players/250x250/p535264.png,England,p535264,1
+14,Matt Smith,Midfielder,//resources.premierleague.com/premierleague/photos/players/250x250/p232241.png,England,p232241,1
+20,Jorginho,Midfielder,//resources.premierleague.com/premierleague/photos/players/250x250/p85955.png,Italy,p85955,1
+41,Mauro Bandeira,Midfielder,//resources.premierleague.com/premierleague/photos/players/250x250/p504751.png,Portugal,p504751,1
+14,Eddie Nketiah,Forward,//resources.premierleague.com/premierleague/photos/players/250x250/p205533.png,England,p205533,1
+11,Gabriel Martinelli,Forward,//resources.premierleague.com/premierleague/photos/players/250x250/p444145.png,Brazil,p444145,1
+9,Gabriel Jesus,Forward,//resources.premierleague.com/premierleague/photos/players/250x250/p205651.png,Brazil,p205651,1
+24,Reiss Nelson,Forward,//resources.premierleague.com/premierleague/photos/players/250x250/p200641.png,England,p200641,1
+47,Khayon Edwards,Forward,//resources.premierleague.com/premierleague/photos/players/250x250/p502601.png,England,p502601,1
+71,Charles Sagoe Junior,Forward,//resources.premierleague.com/premierleague/photos/players/250x250/p516874.png,England,p516874,1
+19,Leandro Trossard,Forward,//resources.premierleague.com/premierleague/photos/players/250x250/p116216.png,Belgium,p116216,1
+19,Leandro Trossard,Forward,//resources.premierleague.com/premierleague/photos/players/250x250/p116216.png,Belgium,p116216,1
+1,Emiliano Martínez,Goalkeeper,//resources.premierleague.com/premierleague/photos/players/250x250/p98980.png,Argentina,p98980,2
+38,Viljami Sinisalo,Goalkeeper,//resources.premierleague.com/premierleague/photos/players/250x250/p248164.png,Finland,p248164,2
+25,Robin Olsen,Goalkeeper,//resources.premierleague.com/premierleague/photos/players/250x250/p111782.png,Sweden,p111782,2
+48,Oliwier Zych,Goalkeeper,//resources.premierleague.com/premierleague/photos/players/250x250/p516159.png,Poland,p516159,2
+64,James Wright,Goalkeeper,//resources.premierleague.com/premierleague/photos/players/250x250/p481283.png,England,p481283,2
+2,Matty Cash,Defender,//resources.premierleague.com/premierleague/photos/players/250x250/p199796.png,Poland,p199796,2
+4,Ezri Konsa,Defender,//resources.premierleague.com/premierleague/photos/players/250x250/p199798.png,England,p199798,2
+5,Tyrone Mings,Defender,//resources.premierleague.com/premierleague/photos/players/250x250/p149484.png,England,p149484,2
+16,Calum Chambers,Defender,//resources.premierleague.com/premierleague/photos/players/250x250/p101184.png,England,p101184,2
+18,Ashley Young,Defender,//resources.premierleague.com/premierleague/photos/players/250x250/p18892.png,England,p18892,2
+27,Lucas Digne,Defender,//resources.premierleague.com/premierleague/photos/players/250x250/p101188.png,France,p101188,2
+3,Diego Carlos,Defender,//resources.premierleague.com/premierleague/photos/players/250x250/p165659.png,Brazil,p165659,2
+15,Álex Moreno,Defender,//resources.premierleague.com/premierleague/photos/players/250x250/p106468.png,Spain,p106468,2
+56,Sebastian Revan,Defender,//resources.premierleague.com/premierleague/photos/players/250x250/p479641.png,England,p479641,2
+50,Sil Swinkels,Defender,//resources.premierleague.com/premierleague/photos/players/250x250/p514287.png,Netherlands,p514287,2
+6,Douglas Luiz,Midfielder,//resources.premierleague.com/premierleague/photos/players/250x250/p230046.png,Brazil,p230046,2
+7,John McGinn,Midfielder,//resources.premierleague.com/premierleague/photos/players/250x250/p122806.png,Scotland,p122806,2
+10,Emiliano Buendía,Midfielder,//resources.premierleague.com/premierleague/photos/players/250x250/p195546.png,Argentina,p195546,2
+41,Jacob Ramsey,Midfielder,//resources.premierleague.com/premierleague/photos/players/250x250/p232653.png,England,p232653,2
+44,Boubacar Kamara,Midfielder,//resources.premierleague.com/premierleague/photos/players/250x250/p226944.png,France,p226944,2
+23,Philippe Coutinho,Midfielder,//resources.premierleague.com/premierleague/photos/players/250x250/p84583.png,Brazil,p84583,2
+32,Leander Dendoncker,Midfielder,//resources.premierleague.com/premierleague/photos/players/250x250/p151589.png,Belgium,p151589,2
+72,Kadan Young,Midfielder,//resources.premierleague.com/premierleague/photos/players/250x250/p537403.png,England,p537403,2
+66,Travis Patterson,Midfielder,//resources.premierleague.com/premierleague/photos/players/250x250/p534836.png,England,p534836,2
+11,Ollie Watkins,Forward,//resources.premierleague.com/premierleague/photos/players/250x250/p178301.png,England,p178301,2
+9,Bertrand Traoré,Forward,//resources.premierleague.com/premierleague/photos/players/250x250/p110504.png,Burkina Faso,p110504,2
+31,Leon Bailey,Forward,//resources.premierleague.com/premierleague/photos/players/250x250/p215711.png,Jamaica,p215711,2
+22,Jhon Durán,Forward,//resources.premierleague.com/premierleague/photos/players/250x250/p476344.png,Colombia,p476344,2
+1,David Raya,Goalkeeper,//resources.premierleague.com/premierleague/photos/players/250x250/p154561.png,Spain,p154561,130
+34,Matthew Cox,Goalkeeper,//resources.premierleague.com/premierleague/photos/players/250x250/p503300.png,England,p503300,130
+22,Thomas Strakosha,Goalkeeper,//resources.premierleague.com/premierleague/photos/players/250x250/p140200.png,Albania,p140200,130
+3,Rico Henry,Defender,//resources.premierleague.com/premierleague/photos/players/250x250/p194010.png,England,p194010,130
+5,Ethan Pinnock,Defender,//resources.premierleague.com/premierleague/photos/players/250x250/p231065.png,Jamaica,p231065,130
+18,Pontus Jansson,Defender,//resources.premierleague.com/premierleague/photos/players/250x250/p61810.png,Sweden,p61810,130
+20,Kristoffer Ajer,Defender,//resources.premierleague.com/premierleague/photos/players/250x250/p191866.png,Norway,p191866,130
+13,Zanka,Defender,//resources.premierleague.com/premierleague/photos/players/250x250/p48760.png,Denmark,p48760,130
+30,Mads Roerslev,Defender,//resources.premierleague.com/premierleague/photos/players/250x250/p226956.png,Denmark,p226956,130
+2,Aaron Hickey,Defender,//resources.premierleague.com/premierleague/photos/players/250x250/p472713.png,Scotland,p472713,130
+16,Ben Mee,Defender,//resources.premierleague.com/premierleague/photos/players/250x250/p51927.png,England,p51927,130
+32,Tristan Crama,Defender,//resources.premierleague.com/premierleague/photos/players/250x250/p592661.png,France,p592661,130
+33,Finley Stevens,Defender,//resources.premierleague.com/premierleague/photos/players/250x250/p450550.png,Wales,p450550,130
+6,Christian Nørgaard,Midfielder,//resources.premierleague.com/premierleague/photos/players/250x250/p128295.png,Denmark,p128295,130
+8,Mathias Jensen,Midfielder,//resources.premierleague.com/premierleague/photos/players/250x250/p207283.png,Denmark,p207283,130
+10,Josh Dasilva,Midfielder,//resources.premierleague.com/premierleague/photos/players/250x250/p183656.png,England,p183656,130
+11,Yoane Wissa,Midfielder,//resources.premierleague.com/premierleague/photos/players/250x250/p216646.png,DR Congo,p216646,130
+15,Frank Onyeka,Midfielder,//resources.premierleague.com/premierleague/photos/players/250x250/p428580.png,Nigeria,p428580,130
+19,Bryan Mbeumo,Midfielder,//resources.premierleague.com/premierleague/photos/players/250x250/p446008.png,Cameroon,p446008,130
+26,Shandon Baptiste,Midfielder,//resources.premierleague.com/premierleague/photos/players/250x250/p432160.png,Grenada,p432160,130
+27,Vitaly Janelt,Midfielder,//resources.premierleague.com/premierleague/photos/players/250x250/p204580.png,Germany,p204580,130
+24,Mikkel Damsgaard,Midfielder,//resources.premierleague.com/premierleague/photos/players/250x250/p440089.png,Denmark,p440089,130
+35,Ryan Trevitt,Midfielder,//resources.premierleague.com/premierleague/photos/players/250x250/p591357.png,England,p591357,130
+36,Yegor Yarmolyuk,Midfielder,//resources.premierleague.com/premierleague/photos/players/250x250/p601975.png,Ukraine,p601975,130
+36,Ehor Yarmolyuk,Midfielder,//resources.premierleague.com/premierleague/photos/players/250x250/p508395.png,Ukraine,p508395,130
+9,Kevin Schade,Midfielder,//resources.premierleague.com/premierleague/photos/players/250x250/p513418.png,Germany,p513418,130
+14,Saman Ghoddos,Forward,//resources.premierleague.com/premierleague/photos/players/250x250/p205836.png,Iran,p205836,130
+17,Ivan Toney,Forward,//resources.premierleague.com/premierleague/photos/players/250x250/p144485.png,England,p144485,130
+43,Nathan Young-Coombes,Forward,//resources.premierleague.com/premierleague/photos/players/250x250/p460029.png,England,p460029,130
+23,Keane Lewis-Potter,Forward,//resources.premierleague.com/premierleague/photos/players/250x250/p249231.png,England,p249231,130
+37,Alex Gilbert,Forward,//resources.premierleague.com/premierleague/photos/players/250x250/p438659.png,Ireland,p438659,130
+38,Michael Olakigbe,Forward,//resources.premierleague.com/premierleague/photos/players/250x250/p501284.png,England,p501284,130
+1,Robert Sánchez,Goalkeeper,//resources.premierleague.com/premierleague/photos/players/250x250/p215059.png,Spain,p215059,131
+23,Jason Steele,Goalkeeper,//resources.premierleague.com/premierleague/photos/players/250x250/p49262.png,England,p49262,131
+38,Tom McGill,Goalkeeper,//resources.premierleague.com/premierleague/photos/players/250x250/p209288.png,Canada,p209288,131
+2,Tariq Lamptey,Defender,//resources.premierleague.com/premierleague/photos/players/250x250/p232792.png,Ghana,p232792,131
+4,Adam Webster,Defender,//resources.premierleague.com/premierleague/photos/players/250x250/p110735.png,England,p110735,131
+5,Lewis Dunk,Defender,//resources.premierleague.com/premierleague/photos/players/250x250/p83299.png,England,p83299,131
+34,Joël Veltman,Defender,//resources.premierleague.com/premierleague/photos/players/250x250/p111478.png,Netherlands,p111478,131
+5,Matt Clarke,Defender,//resources.premierleague.com/premierleague/photos/players/250x250/p178173.png,England,p178173,131
+29,Jan Paul van Hecke,Defender,//resources.premierleague.com/premierleague/photos/players/250x250/p469142.png,Netherlands,p469142,131
+6,Levi Colwill,Defender,//resources.premierleague.com/premierleague/photos/players/250x250/p460028.png,England,p460028,131
+30,Pervis Estupiñán,Defender,//resources.premierleague.com/premierleague/photos/players/250x250/p204214.png,Ecuador,p204214,131
+57,Odeluga Offiah,Defender,//resources.premierleague.com/premierleague/photos/players/250x250/p445548.png,England,p445548,131
+10,Alexis Mac Allister,Midfielder,//resources.premierleague.com/premierleague/photos/players/250x250/p243016.png,Argentina,p243016,131
+13,Pascal Groß,Midfielder,//resources.premierleague.com/premierleague/photos/players/250x250/p60307.png,Germany,p60307,131
+14,Adam Lallana,Midfielder,//resources.premierleague.com/premierleague/photos/players/250x250/p39155.png,England,p39155,131
+15,Jakub Moder,Midfielder,//resources.premierleague.com/premierleague/photos/players/250x250/p243505.png,Poland,p243505,131
+7,Solly March,Midfielder,//resources.premierleague.com/premierleague/photos/players/250x250/p109345.png,England,p109345,131
+25,Moisés Caicedo,Midfielder,//resources.premierleague.com/premierleague/photos/players/250x250/p486672.png,Ecuador,p486672,131
+22,Kaoru Mitoma,Midfielder,//resources.premierleague.com/premierleague/photos/players/250x250/p451340.png,Japan,p451340,131
+53,Jack Hinchy,Midfielder,//resources.premierleague.com/premierleague/photos/players/250x250/p524112.png,England,p524112,131
+51,Cameron Peupion,Midfielder,//resources.premierleague.com/premierleague/photos/players/250x250/p491598.png,Australia,p491598,131
+59,Andrew Moran,Midfielder,//resources.premierleague.com/premierleague/photos/players/250x250/p513834.png,Ireland,p513834,131
+27,Billy Gilmour,Midfielder,//resources.premierleague.com/premierleague/photos/players/250x250/p243568.png,Scotland,p243568,131
+71,Jack Hinshelwood,Midfielder,//resources.premierleague.com/premierleague/photos/players/250x250/p532529.png,England,p532529,131
+40,Facundo Buonanotte,Midfielder,//resources.premierleague.com/premierleague/photos/players/250x250/p536916.png,Argentina,p536916,131
+26,Yasin Ayari,Midfielder,//resources.premierleague.com/premierleague/photos/players/250x250/p509416.png,Sweden,p509416,131
+18,Danny Welbeck,Forward,//resources.premierleague.com/premierleague/photos/players/250x250/p50175.png,England,p50175,131
+19,Jeremy Sarmiento,Forward,//resources.premierleague.com/premierleague/photos/players/250x250/p441192.png,Ecuador,p441192,131
+20,Julio Enciso,Forward,//resources.premierleague.com/premierleague/photos/players/250x250/p474120.png,Paraguay,p474120,131
+21,Deniz Undav,Forward,//resources.premierleague.com/premierleague/photos/players/250x250/p450434.png,Germany,p450434,131
+28,Evan Ferguson,Forward,//resources.premierleague.com/premierleague/photos/players/250x250/p487117.png,Ireland,p487117,131
+1,Kepa Arrizabalaga,Goalkeeper,//resources.premierleague.com/premierleague/photos/players/250x250/p109745.png,Spain,p109745,4
+16,Édouard Mendy,Goalkeeper,//resources.premierleague.com/premierleague/photos/players/250x250/p228286.png,Senegal,p228286,4
+36,Gabriel Slonina,Goalkeeper,//resources.premierleague.com/premierleague/photos/players/250x250/p471798.png,United States,p471798,4
+13,Marcus Bettinelli,Goalkeeper,//resources.premierleague.com/premierleague/photos/players/250x250/p122074.png,England,p122074,4
+47,Lucas Bergström,Goalkeeper,//resources.premierleague.com/premierleague/photos/players/250x250/p482158.png,Finland,p482158,4
+6,Thiago Silva,Defender,//resources.premierleague.com/premierleague/photos/players/250x250/p51090.png,Brazil,p51090,4
+24,Reece James,Defender,//resources.premierleague.com/premierleague/photos/players/250x250/p225796.png,England,p225796,4
+28,César Azpilicueta,Defender,//resources.premierleague.com/premierleague/photos/players/250x250/p41328.png,Spain,p41328,4
+26,Kalidou Koulibaly,Defender,//resources.premierleague.com/premierleague/photos/players/250x250/p86129.png,Senegal,p86129,4
+32,Marc Cucurella,Defender,//resources.premierleague.com/premierleague/photos/players/250x250/p179268.png,Spain,p179268,4
+5,Ben Chilwell,Defender,//resources.premierleague.com/premierleague/photos/players/250x250/p172850.png,England,p172850,4
+33,Wesley Fofana,Defender,//resources.premierleague.com/premierleague/photos/players/250x250/p444463.png,France,p444463,4
+2,Trevoh Chalobah,Defender,//resources.premierleague.com/premierleague/photos/players/250x250/p180736.png,England,p180736,4
+5,Ben Chilwell,Defender,//resources.premierleague.com/premierleague/photos/players/250x250/p172850.png,England,p172850,4
+4,Benoît Badiashile,Defender,//resources.premierleague.com/premierleague/photos/players/250x250/p242880.png,France,p242880,4
+7,N'Golo Kanté,Midfielder,//resources.premierleague.com/premierleague/photos/players/250x250/p116594.png,France,p116594,4
+8,Mateo Kovacic,Midfielder,//resources.premierleague.com/premierleague/photos/players/250x250/p91651.png,Croatia,p91651,4
+10,Christian Pulisic,Midfielder,//resources.premierleague.com/premierleague/photos/players/250x250/p176413.png,United States,p176413,4
+12,Ruben Loftus-Cheek,Midfielder,//resources.premierleague.com/premierleague/photos/players/250x250/p126187.png,England,p126187,4
+19,Mason Mount,Midfielder,//resources.premierleague.com/premierleague/photos/players/250x250/p184341.png,England,p184341,4
+22,Hakim Ziyech,Midfielder,//resources.premierleague.com/premierleague/photos/players/250x250/p124183.png,Morocco,p124183,4
+29,Kai Havertz,Midfielder,//resources.premierleague.com/premierleague/photos/players/250x250/p219847.png,Germany,p219847,4
+23,Conor Gallagher,Midfielder,//resources.premierleague.com/premierleague/photos/players/250x250/p232787.png,England,p232787,4
+39,Harvey Vale,Midfielder,//resources.premierleague.com/premierleague/photos/players/250x250/p491785.png,England,p491785,4
+30,Carney Chukwuemeka,Midfielder,//resources.premierleague.com/premierleague/photos/players/250x250/p478912.png,England,p478912,4
+20,Denis Zakaria,Midfielder,//resources.premierleague.com/premierleague/photos/players/250x250/p212701.png,Switzerland,p212701,4
+56,Omari Hutchinson,Midfielder,//resources.premierleague.com/premierleague/photos/players/250x250/p503301.png,Jamaica,p503301,4
+67,Lewis Hall,Midfielder,//resources.premierleague.com/premierleague/photos/players/250x250/p487838.png,England,p487838,4
+15,Mykhailo Mudryk,Midfielder,//resources.premierleague.com/premierleague/photos/players/250x250/p465920.png,Ukraine,p465920,4
+5,Enzo Fernández,Midfielder,//resources.premierleague.com/premierleague/photos/players/250x250/p448047.png,Argentina,p448047,4
+18,Armando Broja,Forward,//resources.premierleague.com/premierleague/photos/players/250x250/p440323.png,Albania,p440323,4
+17,Raheem Sterling,Forward,//resources.premierleague.com/premierleague/photos/players/250x250/p103955.png,England,p103955,4
+9,Pierre-Emerick Aubameyang,Forward,//resources.premierleague.com/premierleague/photos/players/250x250/p54694.png,Gabon,p54694,4
+27,David Datro Fofana,Forward,//resources.premierleague.com/premierleague/photos/players/250x250/p520295.png,Cote D’Ivoire,p520295,4
+11,João Félix,Forward,//resources.premierleague.com/premierleague/photos/players/250x250/p428399.png,Portugal,p428399,4
+31,Noni Madueke,Forward,//resources.premierleague.com/premierleague/photos/players/250x250/p248857.png,England,p248857,4
+31,Noni Madueke,Forward,//resources.premierleague.com/premierleague/photos/players/250x250/p248857.png,England,p248857,4
+13,Vicente Guaita,Goalkeeper,//resources.premierleague.com/premierleague/photos/players/250x250/p40836.png,Spain,p40836,6
+21,Sam Johnstone,Goalkeeper,//resources.premierleague.com/premierleague/photos/players/250x250/p101982.png,England,p101982,6
+41,Joe Whitworth,Goalkeeper,//resources.premierleague.com/premierleague/photos/players/250x250/p487818.png,England,p487818,6
+63,Owen Goodman,Goalkeeper,//resources.premierleague.com/premierleague/photos/players/250x250/p515496.png,England,p515496,6
+2,Joel Ward,Defender,//resources.premierleague.com/premierleague/photos/players/250x250/p55494.png,England,p55494,6
+3,Tyrick Mitchell,Defender,//resources.premierleague.com/premierleague/photos/players/250x250/p244723.png,England,p244723,6
+5,James Tomkins,Defender,//resources.premierleague.com/premierleague/photos/players/250x250/p49413.png,England,p49413,6
+6,Marc Guéhi,Defender,//resources.premierleague.com/premierleague/photos/players/250x250/p209036.png,England,p209036,6
+16,Joachim Andersen,Defender,//resources.premierleague.com/premierleague/photos/players/250x250/p174874.png,Denmark,p174874,6
+17,Nathaniel Clyne,Defender,//resources.premierleague.com/premierleague/photos/players/250x250/p57328.png,England,p57328,6
+36,Nathan Ferguson,Defender,//resources.premierleague.com/premierleague/photos/players/250x250/p232423.png,England,p232423,6
+26,Chris Richards,Defender,//resources.premierleague.com/premierleague/photos/players/250x250/p427623.png,United States,p427623,6
+4,Luka Milivojevic,Midfielder,//resources.premierleague.com/premierleague/photos/players/250x250/p66975.png,Serbia,p66975,6
+7,Michael Olise,Midfielder,//resources.premierleague.com/premierleague/photos/players/250x250/p443661.png,France,p443661,6
+19,Will Hughes,Midfielder,//resources.premierleague.com/premierleague/photos/players/250x250/p108413.png,England,p108413,6
+15,Jeffrey Schlupp,Midfielder,//resources.premierleague.com/premierleague/photos/players/250x250/p86417.png,Ghana,p86417,6
+18,James McArthur,Midfielder,//resources.premierleague.com/premierleague/photos/players/250x250/p50471.png,Scotland,p50471,6
+44,Jairo Riedewald,Midfielder,//resources.premierleague.com/premierleague/photos/players/250x250/p173954.png,Netherlands,p173954,6
+28,Cheick Doucouré,Midfielder,//resources.premierleague.com/premierleague/photos/players/250x250/p438464.png,Mali,p438464,6
+10,Eberechi Eze,Midfielder,//resources.premierleague.com/premierleague/photos/players/250x250/p232413.png,England,p232413,6
+47,Jack Wells-Morrison,Midfielder,//resources.premierleague.com/premierleague/photos/players/250x250/p515503.png,England,p515503,6
+78,Kaden Rodney,Midfielder,//resources.premierleague.com/premierleague/photos/players/250x250/p530318.png,England,p530318,6
+43,Kofi Balmer,Midfielder,//resources.premierleague.com/premierleague/photos/players/250x250/p422287.png,Northern Ireland,p422287,6
+77,David Ozoh,Midfielder,//resources.premierleague.com/premierleague/photos/players/250x250/p531989.png,England,p531989,6
+29,Naouirou Ahamada,Midfielder,//resources.premierleague.com/premierleague/photos/players/250x250/p466117.png,France,p466117,6
+8,Albert Sambi Lokonga,Midfielder,//resources.premierleague.com/premierleague/photos/players/250x250/p437742.png,Belgium,p437742,6
+9,Jordan Ayew,Forward,//resources.premierleague.com/premierleague/photos/players/250x250/p80146.png,Ghana,p80146,6
+11,Wilfried Zaha,Forward,//resources.premierleague.com/premierleague/photos/players/250x250/p82403.png,Cote D’Ivoire,p82403,6
+14,Jean-Philippe Mateta,Forward,//resources.premierleague.com/premierleague/photos/players/250x250/p231747.png,France,p231747,6
+22,Odsonne Édouard,Forward,//resources.premierleague.com/premierleague/photos/players/250x250/p199670.png,France,p199670,6
+76,Adler Nascimento,Forward,//resources.premierleague.com/premierleague/photos/players/250x250/p538441.png,Portugal,p538441,6
+1,Jordan Pickford,Goalkeeper,//resources.premierleague.com/premierleague/photos/players/250x250/p111234.png,England,p111234,7
+15,Asmir Begovic,Goalkeeper,//resources.premierleague.com/premierleague/photos/players/250x250/p40349.png,Bosnia & Herzegovina,p40349,7
+31,Andy Lonergan,Goalkeeper,//resources.premierleague.com/premierleague/photos/players/250x250/p11948.png,England,p11948,7
+43,Billy Crellin,Goalkeeper,//resources.premierleague.com/premierleague/photos/players/250x250/p438405.png,England,p438405,7
+3,Nathan Patterson,Defender,//resources.premierleague.com/premierleague/photos/players/250x250/p243571.png,Scotland,p243571,7
+4,Mason Holgate,Defender,//resources.premierleague.com/premierleague/photos/players/250x250/p194164.png,England,p194164,7
+5,Michael Keane,Defender,//resources.premierleague.com/premierleague/photos/players/250x250/p106611.png,England,p106611,7
+13,Yerry Mina,Defender,//resources.premierleague.com/premierleague/photos/players/250x250/p164511.png,Colombia,p164511,7
+19,Vitalii Mykolenko,Defender,//resources.premierleague.com/premierleague/photos/players/250x250/p224967.png,Ukraine,p224967,7
+22,Ben Godfrey,Defender,//resources.premierleague.com/premierleague/photos/players/250x250/p198826.png,England,p198826,7
+23,Séamus Coleman,Defender,//resources.premierleague.com/premierleague/photos/players/250x250/p59949.png,Ireland,p59949,7
+2,James Tarkowski,Defender,//resources.premierleague.com/premierleague/photos/players/250x250/p17761.png,England,p17761,7
+29,Rúben Vinagre,Defender,//resources.premierleague.com/premierleague/photos/players/250x250/p216054.png,Portugal,p216054,7
+30,Conor Coady,Defender,//resources.premierleague.com/premierleague/photos/players/250x250/p94147.png,England,p94147,7
+64,Reece Welch,Defender,//resources.premierleague.com/premierleague/photos/players/250x250/p474907.png,England,p474907,7
+48,Kyle John,Defender,//resources.premierleague.com/premierleague/photos/players/250x250/p232829.png,England,p232829,7
+59,Ishé Samuels-Smith,Defender,//resources.premierleague.com/premierleague/photos/players/250x250/p536238.png,England,p536238,7
+14,Andros Townsend,Midfielder,//resources.premierleague.com/premierleague/photos/players/250x250/p60252.png,England,p60252,7
+16,Abdoulaye Doucouré,Midfielder,//resources.premierleague.com/premierleague/photos/players/250x250/p121599.png,Mali,p121599,7
+26,Tom Davies,Midfielder,//resources.premierleague.com/premierleague/photos/players/250x250/p173807.png,England,p173807,7
+56,Stanley Mills,Midfielder,//resources.premierleague.com/premierleague/photos/players/250x250/p510328.png,England,p510328,7
+8,Amadou Onana,Midfielder,//resources.premierleague.com/premierleague/photos/players/250x250/p449871.png,Belgium,p449871,7
+60,Isaac Price,Midfielder,//resources.premierleague.com/premierleague/photos/players/250x250/p491559.png,Northern Ireland,p491559,7
+27,Idrissa Gueye,Midfielder,//resources.premierleague.com/premierleague/photos/players/250x250/p80801.png,Senegal,p80801,7
+37,James Garner,Midfielder,//resources.premierleague.com/premierleague/photos/players/250x250/p232928.png,England,p232928,7
+9,Dominic Calvert-Lewin,Forward,//resources.premierleague.com/premierleague/photos/players/250x250/p177815.png,England,p177815,7
+11,Demarai Gray,Forward,//resources.premierleague.com/premierleague/photos/players/250x250/p172632.png,England,p172632,7
+17,Alex Iwobi,Forward,//resources.premierleague.com/premierleague/photos/players/250x250/p153133.png,Nigeria,p153133,7
+50,Ellis Simms,Forward,//resources.premierleague.com/premierleague/photos/players/250x250/p218997.png,England,p218997,7
+7,Dwight McNeil,Forward,//resources.premierleague.com/premierleague/photos/players/250x250/p433154.png,England,p433154,7
+20,Neal Maupay,Forward,//resources.premierleague.com/premierleague/photos/players/250x250/p115382.png,France,p115382,7
+1,Marek Rodák,Goalkeeper,//resources.premierleague.com/premierleague/photos/players/250x250/p155529.png,Slovakia,p155529,34
+17,Bernd Leno,Goalkeeper,//resources.premierleague.com/premierleague/photos/players/250x250/p80201.png,Germany,p80201,34
+40,George Wickens,Goalkeeper,//resources.premierleague.com/premierleague/photos/players/250x250/p235449.png,England,p235449,34
+13,Tim Ream,Defender,//resources.premierleague.com/premierleague/photos/players/250x250/p82514.png,United States,p82514,34
+4,Tosin Adarabioyo,Defender,//resources.premierleague.com/premierleague/photos/players/250x250/p109646.png,England,p109646,34
+33,Antonee Robinson,Defender,//resources.premierleague.com/premierleague/photos/players/250x250/p169528.png,United States,p169528,34
+5,Shane Duffy,Defender,//resources.premierleague.com/premierleague/photos/players/250x250/p61933.png,Ireland,p61933,34
+31,Issa Diop,Defender,//resources.premierleague.com/premierleague/photos/players/250x250/p219924.png,France,p219924,34
+41,Luciano D'Auria-Henry,Defender,//resources.premierleague.com/premierleague/photos/players/250x250/p461467.png,England,p461467,34
+42,Charlie Robinson,Defender,//resources.premierleague.com/premierleague/photos/players/250x250/p547673.png,England,p547673,34
+3,Layvin Kurzawa,Defender,//resources.premierleague.com/premierleague/photos/players/250x250/p89068.png,France,p89068,34
+39,Stefan Parkes,Defender,//resources.premierleague.com/premierleague/photos/players/250x250/p478227.png,England,p478227,34
+12,Cédric Soares,Defender,//resources.premierleague.com/premierleague/photos/players/250x250/p58822.png,Portugal,p58822,34
+6,Harrison Reed,Midfielder,//resources.premierleague.com/premierleague/photos/players/250x250/p153366.png,England,p153366,34
+7,Neeskens Kebano,Midfielder,//resources.premierleague.com/premierleague/photos/players/250x250/p92259.png,DR Congo,p92259,34
+8,Harry Wilson,Midfielder,//resources.premierleague.com/premierleague/photos/players/250x250/p153682.png,Wales,p153682,34
+10,Tom Cairney,Midfielder,//resources.premierleague.com/premierleague/photos/players/250x250/p76357.png,Scotland,p76357,34
+26,João Palhinha,Midfielder,//resources.premierleague.com/premierleague/photos/players/250x250/p154296.png,Portugal,p154296,34
+18,Andreas Pereira,Midfielder,//resources.premierleague.com/premierleague/photos/players/250x250/p156689.png,Brazil,p156689,34
+38,Luke Harris,Midfielder,//resources.premierleague.com/premierleague/photos/players/250x250/p515024.png,Wales,p515024,34
+45,Kristian Sekularac,Midfielder,//resources.premierleague.com/premierleague/photos/players/250x250/p511504.png,Switzerland,p511504,34
+21,Dan James,Midfielder,//resources.premierleague.com/premierleague/photos/players/250x250/p200617.png,Wales,p200617,34
+28,Sasa Lukic,Midfielder,//resources.premierleague.com/premierleague/photos/players/250x250/p212314.png,Serbia,p212314,34
+35,Tyrese Francois,Midfielder,//resources.premierleague.com/premierleague/photos/players/250x250/p432931.png,Australia,p432931,34
+9,Aleksandar Mitrovic,Forward,//resources.premierleague.com/premierleague/photos/players/250x250/p128389.png,Serbia,p128389,34
+11,Manor Solomon,Forward,//resources.premierleague.com/premierleague/photos/players/250x250/p235674.png,Israel,p235674,34
+37,Terry Ablade,Forward,//resources.premierleague.com/premierleague/photos/players/250x250/p247664.png,Finland,p247664,34
+47,Martial Godo,Forward,//resources.premierleague.com/premierleague/photos/players/250x250/p573062.png,England,p573062,34
+20,Willian,Forward,//resources.premierleague.com/premierleague/photos/players/250x250/p47431.png,Brazil,p47431,34
+30,Carlos Vinícius,Forward,//resources.premierleague.com/premierleague/photos/players/250x250/p245824.png,Brazil,p245824,34
+34,Callum McFarlane,Forward,//resources.premierleague.com/premierleague/photos/players/250x250/p588006.png,England,p588006,34
+1,Illan Meslier,Goalkeeper,//resources.premierleague.com/premierleague/photos/players/250x250/p437495.png,France,p437495,9
+13,Kristoffer Klaesson,Goalkeeper,//resources.premierleague.com/premierleague/photos/players/250x250/p223081.png,Norway,p223081,9
+55,Harry Christy,Goalkeeper,//resources.premierleague.com/premierleague/photos/players/250x250/p513845.png,England,p513845,9
+22,Joel Robles,Goalkeeper,//resources.premierleague.com/premierleague/photos/players/250x250/p78315.png,Spain,p78315,9
+40,Dani van den Heuvel,Goalkeeper,//resources.premierleague.com/premierleague/photos/players/250x250/p511842.png,Netherlands,p511842,9
+2,Luke Ayling,Defender,//resources.premierleague.com/premierleague/photos/players/250x250/p66588.png,England,p66588,9
+3,Junior Firpo,Defender,//resources.premierleague.com/premierleague/photos/players/250x250/p443967.png,Spain,p443967,9
+5,Robin Koch,Defender,//resources.premierleague.com/premierleague/photos/players/250x250/p193645.png,Germany,p193645,9
+6,Liam Cooper,Defender,//resources.premierleague.com/premierleague/photos/players/250x250/p55914.png,Scotland,p55914,9
+21,Pascal Struijk,Defender,//resources.premierleague.com/premierleague/photos/players/250x250/p222694.png,Netherlands,p222694,9
+15,Stuart Dallas,Defender,//resources.premierleague.com/premierleague/photos/players/250x250/p87873.png,Northern Ireland,p87873,9
+25,Rasmus Kristensen,Defender,//resources.premierleague.com/premierleague/photos/players/250x250/p224209.png,Denmark,p224209,9
+56,James Debayo,Defender,//resources.premierleague.com/premierleague/photos/players/250x250/p547379.png,England,p547379,9
+39,Maximilian Wöber,Defender,//resources.premierleague.com/premierleague/photos/players/250x250/p220087.png,Austria,p220087,9
+52,Kris Moore,Defender,//resources.premierleague.com/premierleague/photos/players/250x250/p513852.png,England,p513852,9
+34,Diogo Monteiro,Defender,//resources.premierleague.com/premierleague/photos/players/250x250/p491008.png,Portugal,p491008,9
+62,Jeremiah Chilokoa-Mullen,Defender,//resources.premierleague.com/premierleague/photos/players/250x250/p470296.png,Scotland,p470296,9
+4,Adam Forshaw,Midfielder,//resources.premierleague.com/premierleague/photos/players/250x250/p80179.png,England,p80179,9
+11,Jack Harrison,Midfielder,//resources.premierleague.com/premierleague/photos/players/250x250/p221399.png,England,p221399,9
+10,Crysencio Summerville,Midfielder,//resources.premierleague.com/premierleague/photos/players/250x250/p450070.png,Netherlands,p450070,9
+7,Brenden Aaronson,Midfielder,//resources.premierleague.com/premierleague/photos/players/250x250/p427637.png,United States,p427637,9
+8,Marc Roca,Midfielder,//resources.premierleague.com/premierleague/photos/players/250x250/p234370.png,Spain,p234370,9
+18,Darko Gyabi,Midfielder,//resources.premierleague.com/premierleague/photos/players/250x250/p470294.png,England,p470294,9
+12,Tyler Adams,Midfielder,//resources.premierleague.com/premierleague/photos/players/250x250/p200785.png,United States,p200785,9
+63,Archie Gray,Midfielder,//resources.premierleague.com/premierleague/photos/players/250x250/p547701.png,England,p547701,9
+27,Amari Miller,Midfielder,//resources.premierleague.com/premierleague/photos/players/250x250/p512733.png,England,p512733,9
+51,Charlie Allen,Midfielder,//resources.premierleague.com/premierleague/photos/players/250x250/p488181.png,Northern Ireland,p488181,9
+57,Joe Snowdon,Midfielder,//resources.premierleague.com/premierleague/photos/players/250x250/p600945.png,England,p600945,9
+57,Joseph Snowdon,Midfielder,//resources.premierleague.com/premierleague/photos/players/250x250/p482536.png,England,p482536,9
+28,Weston McKennie,Midfielder,//resources.premierleague.com/premierleague/photos/players/250x250/p241519.png,United States,p241519,9
+9,Patrick Bamford,Forward,//resources.premierleague.com/premierleague/photos/players/250x250/p106617.png,England,p106617,9
+19,Rodrigo,Forward,//resources.premierleague.com/premierleague/photos/players/250x250/p80954.png,Spain,p80954,9
+42,Sam Greenwood,Forward,//resources.premierleague.com/premierleague/photos/players/250x250/p248937.png,England,p248937,9
+23,Luis Sinisterra,Forward,//resources.premierleague.com/premierleague/photos/players/250x250/p224995.png,Colombia,p224995,9
+16,Sonny Perkins,Forward,//resources.premierleague.com/premierleague/photos/players/250x250/p496228.png,England,p496228,9
+29,Wilfried Gnonto,Forward,//resources.premierleague.com/premierleague/photos/players/250x250/p492859.png,Italy,p492859,9
+49,Mateo Joseph Fernández,Forward,//resources.premierleague.com/premierleague/photos/players/250x250/p565297.png,Spain,p565297,9
+24,Georginio Rutter,Forward,//resources.premierleague.com/premierleague/photos/players/250x250/p463067.png,France,p463067,9
+1,Danny Ward,Goalkeeper,//resources.premierleague.com/premierleague/photos/players/250x250/p95463.png,Wales,p95463,26
+31,Daniel Iversen,Goalkeeper,//resources.premierleague.com/premierleague/photos/players/250x250/p207270.png,Denmark,p207270,26
+12,Alex Smithies,Goalkeeper,//resources.premierleague.com/premierleague/photos/players/250x250/p45220.png,England,p45220,26
+2,James Justin,Defender,//resources.premierleague.com/premierleague/photos/players/250x250/p220627.png,England,p220627,26
+5,Ryan Bertrand,Defender,//resources.premierleague.com/premierleague/photos/players/250x250/p40146.png,England,p40146,26
+6,Jonny Evans,Defender,//resources.premierleague.com/premierleague/photos/players/250x250/p37642.png,Northern Ireland,p37642,26
+18,Daniel Amartey,Defender,//resources.premierleague.com/premierleague/photos/players/250x250/p155569.png,Ghana,p155569,26
+21,Ricardo Pereira,Defender,//resources.premierleague.com/premierleague/photos/players/250x250/p111931.png,Portugal,p111931,26
+23,Jannik Vestergaard,Defender,//resources.premierleague.com/premierleague/photos/players/250x250/p93100.png,Denmark,p93100,26
+27,Timothy Castagne,Defender,//resources.premierleague.com/premierleague/photos/players/250x250/p166477.png,Belgium,p166477,26
+33,Luke Thomas,Defender,//resources.premierleague.com/premierleague/photos/players/250x250/p244619.png,England,p244619,26
+3,Wout Faes,Defender,//resources.premierleague.com/premierleague/photos/players/250x250/p218218.png,Belgium,p218218,26
+60,Joe Wormleighton,Defender,//resources.premierleague.com/premierleague/photos/players/250x250/p514284.png,England,p514284,26
+16,Victor Kristiansen,Defender,//resources.premierleague.com/premierleague/photos/players/250x250/p481510.png,Denmark,p481510,26
+15,Harry Souttar,Defender,//resources.premierleague.com/premierleague/photos/players/250x250/p194190.png,Australia,p194190,26
+7,Harvey Barnes,Midfielder,//resources.premierleague.com/premierleague/photos/players/250x250/p201666.png,England,p201666,26
+8,Youri Tielemans,Midfielder,//resources.premierleague.com/premierleague/photos/players/250x250/p166989.png,Belgium,p166989,26
+10,James Maddison,Midfielder,//resources.premierleague.com/premierleague/photos/players/250x250/p172780.png,England,p172780,26
+22,Kiernan Dewsbury-Hall,Midfielder,//resources.premierleague.com/premierleague/photos/players/250x250/p215413.png,England,p215413,26
+25,Wilfred Ndidi,Midfielder,//resources.premierleague.com/premierleague/photos/players/250x250/p203341.png,Nigeria,p203341,26
+42,Boubakary Soumaré,Midfielder,//resources.premierleague.com/premierleague/photos/players/250x250/p225902.png,France,p225902,26
+40,Wanya Marçal-Madivadua,Midfielder,//resources.premierleague.com/premierleague/photos/players/250x250/p461584.png,Portugal,p461584,26
+26,Dennis Praet,Midfielder,//resources.premierleague.com/premierleague/photos/players/250x250/p106837.png,Belgium,p106837,26
+24,Nampalys Mendy,Midfielder,//resources.premierleague.com/premierleague/photos/players/250x250/p86881.png,Senegal,p86881,26
+34,Lewis Brunt,Midfielder,//resources.premierleague.com/premierleague/photos/players/250x250/p232620.png,England,p232620,26
+44,Sammy Braybrooke,Midfielder,//resources.premierleague.com/premierleague/photos/players/250x250/p519223.png,England,p519223,26
+9,Jamie Vardy,Forward,//resources.premierleague.com/premierleague/photos/players/250x250/p101668.png,England,p101668,26
+14,Kelechi Iheanacho,Forward,//resources.premierleague.com/premierleague/photos/players/250x250/p173515.png,Nigeria,p173515,26
+20,Patson Daka,Forward,//resources.premierleague.com/premierleague/photos/players/250x250/p245419.png,Zambia,p245419,26
+77,William Alves,Forward,//resources.premierleague.com/premierleague/photos/players/250x250/p532534.png,England,p532534,26
+37,Tetê,Forward,//resources.premierleague.com/premierleague/photos/players/250x250/p225295.png,Brazil,p225295,26
+1,Alisson,Goalkeeper,//resources.premierleague.com/premierleague/photos/players/250x250/p116535.png,Brazil,p116535,10
+13,Adrián,Goalkeeper,//resources.premierleague.com/premierleague/photos/players/250x250/p60706.png,Spain,p60706,10
+62,Caoimhín Kelleher,Goalkeeper,//resources.premierleague.com/premierleague/photos/players/250x250/p200720.png,Ireland,p200720,10
+95,Harvey Davies,Goalkeeper,//resources.premierleague.com/premierleague/photos/players/250x250/p464353.png,England,p464353,10
+4,Virgil van Dijk,Defender,//resources.premierleague.com/premierleague/photos/players/250x250/p97032.png,Netherlands,p97032,10
+5,Ibrahima Konaté,Defender,//resources.premierleague.com/premierleague/photos/players/250x250/p204716.png,France,p204716,10
+2,Joe Gomez,Defender,//resources.premierleague.com/premierleague/photos/players/250x250/p171287.png,England,p171287,10
+21,Konstantinos Tsimikas,Defender,//resources.premierleague.com/premierleague/photos/players/250x250/p214285.png,Greece,p214285,10
+26,Andrew Robertson,Defender,//resources.premierleague.com/premierleague/photos/players/250x250/p122798.png,Scotland,p122798,10
+32,Joël Matip,Defender,//resources.premierleague.com/premierleague/photos/players/250x250/p60914.png,Cameroon,p60914,10
+66,Trent Alexander-Arnold,Defender,//resources.premierleague.com/premierleague/photos/players/250x250/p169187.png,England,p169187,10
+22,Calvin Ramsay,Defender,//resources.premierleague.com/premierleague/photos/players/250x250/p489580.png,Scotland,p489580,10
+47,Nathaniel Phillips,Defender,//resources.premierleague.com/premierleague/photos/players/250x250/p197464.png,England,p197464,10
+43,Stefan Bajcetic,Defender,//resources.premierleague.com/premierleague/photos/players/250x250/p535928.png,Spain,p535928,10
+46,Rhys Williams,Defender,//resources.premierleague.com/premierleague/photos/players/250x250/p219937.png,England,p219937,10
+3,Fabinho,Midfielder,//resources.premierleague.com/premierleague/photos/players/250x250/p116643.png,Brazil,p116643,10
+6,Thiago,Midfielder,//resources.premierleague.com/premierleague/photos/players/250x250/p61558.png,Spain,p61558,10
+7,James Milner,Midfielder,//resources.premierleague.com/premierleague/photos/players/250x250/p15157.png,England,p15157,10
+8,Naby Keïta,Midfielder,//resources.premierleague.com/premierleague/photos/players/250x250/p175592.png,Guinea,p175592,10
+14,Jordan Henderson,Midfielder,//resources.premierleague.com/premierleague/photos/players/250x250/p56979.png,England,p56979,10
+15,Alex Oxlade-Chamberlain,Midfielder,//resources.premierleague.com/premierleague/photos/players/250x250/p81880.png,England,p81880,10
+17,Curtis Jones,Midfielder,//resources.premierleague.com/premierleague/photos/players/250x250/p206915.png,England,p206915,10
+28,Fábio Carvalho,Midfielder,//resources.premierleague.com/premierleague/photos/players/250x250/p244858.png,Portugal,p244858,10
+42,Bobby Clark,Midfielder,//resources.premierleague.com/premierleague/photos/players/250x250/p491970.png,England,p491970,10
+29,Arthur,Midfielder,//resources.premierleague.com/premierleague/photos/players/250x250/p204043.png,Brazil,p204043,10
+94,Melkamu Frauendorf,Midfielder,//resources.premierleague.com/premierleague/photos/players/250x250/p515481.png,Germany,p515481,10
+9,Roberto Firmino,Forward,//resources.premierleague.com/premierleague/photos/players/250x250/p92217.png,Brazil,p92217,10
+11,Mohamed Salah,Forward,//resources.premierleague.com/premierleague/photos/players/250x250/p118748.png,Egypt,p118748,10
+20,Diogo Jota,Forward,//resources.premierleague.com/premierleague/photos/players/250x250/p194634.png,Portugal,p194634,10
+23,Luis Díaz,Forward,//resources.premierleague.com/premierleague/photos/players/250x250/p244731.png,Colombia,p244731,10
+27,Darwin Núñez,Forward,//resources.premierleague.com/premierleague/photos/players/250x250/p447203.png,Uruguay,p447203,10
+50,Ben Doak,Forward,//resources.premierleague.com/premierleague/photos/players/250x250/p496208.png,Scotland,p496208,10
+81,Layton Stewart,Forward,//resources.premierleague.com/premierleague/photos/players/250x250/p461609.png,England,p461609,10
+18,Cody Gakpo,Forward,//resources.premierleague.com/premierleague/photos/players/250x250/p243298.png,Netherlands,p243298,10
+31,Ederson,Goalkeeper,//resources.premierleague.com/premierleague/photos/players/250x250/p121160.png,Brazil,p121160,11
+33,Scott Carson,Goalkeeper,//resources.premierleague.com/premierleague/photos/players/250x250/p17601.png,England,p17601,11
+18,Stefan Ortega,Goalkeeper,//resources.premierleague.com/premierleague/photos/players/250x250/p88248.png,Germany,p88248,11
+2,Kyle Walker,Defender,//resources.premierleague.com/premierleague/photos/players/250x250/p58621.png,England,p58621,11
+3,Rúben Dias,Defender,//resources.premierleague.com/premierleague/photos/players/250x250/p171314.png,Portugal,p171314,11
+5,John Stones,Defender,//resources.premierleague.com/premierleague/photos/players/250x250/p97299.png,England,p97299,11
+6,Nathan Aké,Defender,//resources.premierleague.com/premierleague/photos/players/250x250/p126184.png,Netherlands,p126184,11
+14,Aymeric Laporte,Defender,//resources.premierleague.com/premierleague/photos/players/250x250/p146941.png,Spain,p146941,11
+82,Rico Lewis,Defender,//resources.premierleague.com/premierleague/photos/players/250x250/p477064.png,England,p477064,11
+25,Manuel Akanji,Defender,//resources.premierleague.com/premierleague/photos/players/250x250/p211975.png,Switzerland,p211975,11
+8,Ilkay Gündogan,Midfielder,//resources.premierleague.com/premierleague/photos/players/250x250/p59859.png,Germany,p59859,11
+10,Jack Grealish,Midfielder,//resources.premierleague.com/premierleague/photos/players/250x250/p114283.png,England,p114283,11
+16,Rodri,Midfielder,//resources.premierleague.com/premierleague/photos/players/250x250/p220566.png,Spain,p220566,11
+17,Kevin De Bruyne,Midfielder,//resources.premierleague.com/premierleague/photos/players/250x250/p61366.png,Belgium,p61366,11
+20,Bernardo Silva,Midfielder,//resources.premierleague.com/premierleague/photos/players/250x250/p165809.png,Portugal,p165809,11
+47,Phil Foden,Midfielder,//resources.premierleague.com/premierleague/photos/players/250x250/p209244.png,England,p209244,11
+80,Cole Palmer,Midfielder,//resources.premierleague.com/premierleague/photos/players/250x250/p244851.png,England,p244851,11
+4,Kalvin Phillips,Midfielder,//resources.premierleague.com/premierleague/photos/players/250x250/p155405.png,England,p155405,11
+21,Yangel Herrera,Midfielder,//resources.premierleague.com/premierleague/photos/players/250x250/p226541.png,Venezuela,p226541,11
+21,Sergio Gómez,Midfielder,//resources.premierleague.com/premierleague/photos/players/250x250/p437468.png,Spain,p437468,11
+62,Shea Charles,Midfielder,//resources.premierleague.com/premierleague/photos/players/250x250/p463210.png,Northern Ireland,p463210,11
+93,Alex Robertson,Midfielder,//resources.premierleague.com/premierleague/photos/players/250x250/p434043.png,Australia,p434043,11
+32,Máximo Perrone,Midfielder,//resources.premierleague.com/premierleague/photos/players/250x250/p482769.png,Argentina,p482769,11
+26,Riyad Mahrez,Forward,//resources.premierleague.com/premierleague/photos/players/250x250/p103025.png,Algeria,p103025,11
+9,Erling Haaland,Forward,//resources.premierleague.com/premierleague/photos/players/250x250/p223094.png,Norway,p223094,11
+19,Julián Álvarez,Forward,//resources.premierleague.com/premierleague/photos/players/250x250/p461358.png,Argentina,p461358,11
+1,David de Gea,Goalkeeper,//resources.premierleague.com/premierleague/photos/players/250x250/p51940.png,Spain,p51940,12
+22,Tom Heaton,Goalkeeper,//resources.premierleague.com/premierleague/photos/players/250x250/p21205.png,England,p21205,12
+30,Nathan Bishop,Goalkeeper,//resources.premierleague.com/premierleague/photos/players/250x250/p250370.png,England,p250370,12
+31,Jack Butland,Goalkeeper,//resources.premierleague.com/premierleague/photos/players/250x250/p105666.png,England,p105666,12
+2,Victor Lindelöf,Defender,//resources.premierleague.com/premierleague/photos/players/250x250/p184667.png,Sweden,p184667,12
+4,Phil Jones,Defender,//resources.premierleague.com/premierleague/photos/players/250x250/p76359.png,England,p76359,12
+5,Harry Maguire,Defender,//resources.premierleague.com/premierleague/photos/players/250x250/p95658.png,England,p95658,12
+19,Raphaël Varane,Defender,//resources.premierleague.com/premierleague/photos/players/250x250/p90152.png,France,p90152,12
+20,Diogo Dalot,Defender,//resources.premierleague.com/premierleague/photos/players/250x250/p216051.png,Portugal,p216051,12
+23,Luke Shaw,Defender,//resources.premierleague.com/premierleague/photos/players/250x250/p106760.png,England,p106760,12
+29,Aaron Wan-Bissaka,Defender,//resources.premierleague.com/premierleague/photos/players/250x250/p214590.png,England,p214590,12
+12,Tyrell Malacia,Defender,//resources.premierleague.com/premierleague/photos/players/250x250/p222690.png,Netherlands,p222690,12
+6,Lisandro Martínez,Defender,//resources.premierleague.com/premierleague/photos/players/250x250/p221820.png,Argentina,p221820,12
+66,Rhys Bennett,Defender,//resources.premierleague.com/premierleague/photos/players/250x250/p515500.png,England,p515500,12
+33,Brandon Williams,Defender,//resources.premierleague.com/premierleague/photos/players/250x250/p232937.png,England,p232937,12
+17,Fred,Midfielder,//resources.premierleague.com/premierleague/photos/players/250x250/p101582.png,Brazil,p101582,12
+8,Bruno Fernandes,Midfielder,//resources.premierleague.com/premierleague/photos/players/250x250/p141746.png,Portugal,p141746,12
+39,Scott McTominay,Midfielder,//resources.premierleague.com/premierleague/photos/players/250x250/p195851.png,Scotland,p195851,12
+28,Facundo Pellistri,Midfielder,//resources.premierleague.com/premierleague/photos/players/250x250/p488404.png,Uruguay,p488404,12
+34,Donny van de Beek,Midfielder,//resources.premierleague.com/premierleague/photos/players/250x250/p180184.png,Netherlands,p180184,12
+14,Christian Eriksen,Midfielder,//resources.premierleague.com/premierleague/photos/players/250x250/p80607.png,Denmark,p80607,12
+18,Casemiro,Midfielder,//resources.premierleague.com/premierleague/photos/players/250x250/p61256.png,Brazil,p61256,12
+55,Zidane Iqbal,Midfielder,//resources.premierleague.com/premierleague/photos/players/250x250/p461548.png,Iraq,p461548,12
+73,Kobbie Mainoo,Midfielder,//resources.premierleague.com/premierleague/photos/players/250x250/p516895.png,England,p516895,12
+15,Marcel Sabitzer,Midfielder,//resources.premierleague.com/premierleague/photos/players/250x250/p101338.png,Austria,p101338,12
+49,Alejandro Garnacho,Forward,//resources.premierleague.com/premierleague/photos/players/250x250/p493105.png,Argentina,p493105,12
+10,Marcus Rashford,Forward,//resources.premierleague.com/premierleague/photos/players/250x250/p176297.png,England,p176297,12
+25,Jadon Sancho,Forward,//resources.premierleague.com/premierleague/photos/players/250x250/p209243.png,England,p209243,12
+36,Anthony Elanga,Forward,//resources.premierleague.com/premierleague/photos/players/250x250/p449434.png,Sweden,p449434,12
+9,Anthony Martial,Forward,//resources.premierleague.com/premierleague/photos/players/250x250/p148225.png,France,p148225,12
+21,Antony,Forward,//resources.premierleague.com/premierleague/photos/players/250x250/p467169.png,Brazil,p467169,12
+27,Wout Weghorst,Forward,//resources.premierleague.com/premierleague/photos/players/250x250/p120202.png,Netherlands,p120202,12
+1,Martin Dúbravka,Goalkeeper,//resources.premierleague.com/premierleague/photos/players/250x250/p67089.png,Slovakia,p67089,23
+29,Mark Gillespie,Goalkeeper,//resources.premierleague.com/premierleague/photos/players/250x250/p81441.png,England,p81441,23
+22,Nick Pope,Goalkeeper,//resources.premierleague.com/premierleague/photos/players/250x250/p98747.png,England,p98747,23
+18,Loris Karius,Goalkeeper,//resources.premierleague.com/premierleague/photos/players/250x250/p104542.png,Germany,p104542,23
+3,Paul Dummett,Defender,//resources.premierleague.com/premierleague/photos/players/250x250/p106618.png,Wales,p106618,23
+5,Fabian Schär,Defender,//resources.premierleague.com/premierleague/photos/players/250x250/p119471.png,Switzerland,p119471,23
+6,Jamaal Lascelles,Defender,//resources.premierleague.com/premierleague/photos/players/250x250/p101148.png,England,p101148,23
+12,Jamal Lewis,Defender,//resources.premierleague.com/premierleague/photos/players/250x250/p194799.png,Northern Ireland,p194799,23
+2,Kieran Trippier,Defender,//resources.premierleague.com/premierleague/photos/players/250x250/p77794.png,England,p77794,23
+17,Emil Krafth,Defender,//resources.premierleague.com/premierleague/photos/players/250x250/p111773.png,Sweden,p111773,23
+19,Javier Manquillo,Defender,//resources.premierleague.com/premierleague/photos/players/250x250/p109528.png,Spain,p109528,23
+33,Dan Burn,Defender,//resources.premierleague.com/premierleague/photos/players/250x250/p78916.png,England,p78916,23
+4,Sven Botman,Defender,//resources.premierleague.com/premierleague/photos/players/250x250/p220237.png,Netherlands,p220237,23
+13,Matt Targett,Defender,//resources.premierleague.com/premierleague/photos/players/250x250/p169359.png,England,p169359,23
+30,Harrison Ashby,Defender,//resources.premierleague.com/premierleague/photos/players/250x250/p441024.png,Scotland,p441024,23
+11,Matt Ritchie,Midfielder,//resources.premierleague.com/premierleague/photos/players/250x250/p56983.png,Scotland,p56983,23
+21,Ryan Fraser,Midfielder,//resources.premierleague.com/premierleague/photos/players/250x250/p90105.png,Scotland,p90105,23
+23,Jacob Murphy,Midfielder,//resources.premierleague.com/premierleague/photos/players/250x250/p114243.png,England,p114243,23
+24,Miguel Almirón,Midfielder,//resources.premierleague.com/premierleague/photos/players/250x250/p179018.png,Paraguay,p179018,23
+28,Joe Willock,Midfielder,//resources.premierleague.com/premierleague/photos/players/250x250/p200089.png,England,p200089,23
+36,Sean Longstaff,Midfielder,//resources.premierleague.com/premierleague/photos/players/250x250/p180135.png,England,p180135,23
+39,Bruno Guimarães,Midfielder,//resources.premierleague.com/premierleague/photos/players/250x250/p208706.png,Brazil,p208706,23
+12,Elliot Anderson,Midfielder,//resources.premierleague.com/premierleague/photos/players/250x250/p215379.png,Scotland,p215379,23
+44,Matty Longstaff,Midfielder,//resources.premierleague.com/premierleague/photos/players/250x250/p223175.png,England,p223175,23
+81,Lewis Miley,Midfielder,//resources.premierleague.com/premierleague/photos/players/250x250/p547719.png,England,p547719,23
+7,Joelinton,Forward,//resources.premierleague.com/premierleague/photos/players/250x250/p180974.png,Brazil,p180974,23
+9,Callum Wilson,Forward,//resources.premierleague.com/premierleague/photos/players/250x250/p75115.png,England,p75115,23
+10,Allan Saint-Maximin,Forward,//resources.premierleague.com/premierleague/photos/players/250x250/p170137.png,France,p170137,23
+14,Alexander Isak,Forward,//resources.premierleague.com/premierleague/photos/players/250x250/p219168.png,Sweden,p219168,23
+8,Anthony Gordon,Forward,//resources.premierleague.com/premierleague/photos/players/250x250/p232826.png,England,p232826,23
+1,Dean Henderson,Goalkeeper,//resources.premierleague.com/premierleague/photos/players/250x250/p172649.png,England,p172649,15
+13,Wayne Hennessey,Goalkeeper,//resources.premierleague.com/premierleague/photos/players/250x250/p20066.png,Wales,p20066,15
+12,Keylor Navas,Goalkeeper,//resources.premierleague.com/premierleague/photos/players/250x250/p28411.png,Costa Rica,p28411,15
+43,George Shelvey,Goalkeeper,//resources.premierleague.com/premierleague/photos/players/250x250/p450197.png,England,p450197,15
+4,Joe Worrall,Defender,//resources.premierleague.com/premierleague/photos/players/250x250/p208912.png,England,p208912,15
+26,Scott McKenna,Defender,//resources.premierleague.com/premierleague/photos/players/250x250/p168281.png,Scotland,p168281,15
+3,Steve Cook,Defender,//resources.premierleague.com/premierleague/photos/players/250x250/p56917.png,England,p56917,15
+2,Giulian Biancone,Defender,//resources.premierleague.com/premierleague/photos/players/250x250/p437753.png,France,p437753,15
+19,Moussa Niakhaté,Defender,//resources.premierleague.com/premierleague/photos/players/250x250/p199170.png,Senegal,p199170,15
+27,Omar Richards,Defender,//resources.premierleague.com/premierleague/photos/players/250x250/p204822.png,England,p204822,15
+7,Neco Williams,Defender,//resources.premierleague.com/premierleague/photos/players/250x250/p215136.png,Wales,p215136,15
+15,Harry Toffolo,Defender,//resources.premierleague.com/premierleague/photos/players/250x250/p114241.png,England,p114241,15
+46,Zach Abbott,Defender,//resources.premierleague.com/premierleague/photos/players/250x250/p549067.png,England,p549067,15
+32,Renan Lodi,Defender,//resources.premierleague.com/premierleague/photos/players/250x250/p233420.png,Brazil,p233420,15
+30,Willy Boly,Defender,//resources.premierleague.com/premierleague/photos/players/250x250/p90585.png,Cote D’Ivoire,p90585,15
+24,Sèrge Aurier,Defender,//resources.premierleague.com/premierleague/photos/players/250x250/p80226.png,Cote D’Ivoire,p80226,15
+38,Felipe,Defender,//resources.premierleague.com/premierleague/photos/players/250x250/p116404.png,Brazil,p116404,15
+8,Jack Colback,Midfielder,//resources.premierleague.com/premierleague/photos/players/250x250/p58771.png,England,p58771,15
+18,Cafú,Midfielder,//resources.premierleague.com/premierleague/photos/players/250x250/p166325.png,Portugal,p166325,15
+22,Ryan Yates,Midfielder,//resources.premierleague.com/premierleague/photos/players/250x250/p204968.png,England,p204968,15
+31,Harry Arter,Midfielder,//resources.premierleague.com/premierleague/photos/players/250x250/p48615.png,Ireland,p48615,15
+11,Jesse Lingard,Midfielder,//resources.premierleague.com/premierleague/photos/players/250x250/p109322.png,England,p109322,15
+41,Oliver Hammond,Midfielder,//resources.premierleague.com/premierleague/photos/players/250x250/p475492.png,Wales,p475492,15
+21,Cheikhou Kouyaté,Midfielder,//resources.premierleague.com/premierleague/photos/players/250x250/p55037.png,Senegal,p55037,15
+23,Remo Freuler,Midfielder,//resources.premierleague.com/premierleague/photos/players/250x250/p89076.png,Switzerland,p89076,15
+10,Morgan Gibbs-White,Midfielder,//resources.premierleague.com/premierleague/photos/players/250x250/p222531.png,England,p222531,15
+55,Alexander Gibson-Hammond,Midfielder,//resources.premierleague.com/premierleague/photos/players/250x250/p461210.png,England,p461210,15
+5,Orel Mangala,Midfielder,//resources.premierleague.com/premierleague/photos/players/250x250/p179519.png,Belgium,p179519,15
+31,Gustavo Scarpa,Midfielder,//resources.premierleague.com/premierleague/photos/players/250x250/p185253.png,Brazil,p185253,15
+28,Danilo,Midfielder,//resources.premierleague.com/premierleague/photos/players/250x250/p513046.png,Brazil,p513046,15
+6,Jonjo Shelvey,Midfielder,//resources.premierleague.com/premierleague/photos/players/250x250/p50232.png,England,p50232,15
+16,Sam Surridge,Forward,//resources.premierleague.com/premierleague/photos/players/250x250/p217331.png,England,p217331,15
+17,Alex Mighten,Forward,//resources.premierleague.com/premierleague/photos/players/250x250/p244930.png,England,p244930,15
+20,Brennan Johnson,Forward,//resources.premierleague.com/premierleague/photos/players/250x250/p242898.png,Wales,p242898,15
+9,Taiwo Awoniyi,Forward,//resources.premierleague.com/premierleague/photos/players/250x250/p210156.png,Nigeria,p210156,15
+33,Lyle Taylor,Forward,//resources.premierleague.com/premierleague/photos/players/250x250/p57647.png,Montserrat,p57647,15
+25,Emmanuel Dennis,Forward,//resources.premierleague.com/premierleague/photos/players/250x250/p230251.png,Nigeria,p230251,15
+49,Detlef Esapa Osong,Forward,//resources.premierleague.com/premierleague/photos/players/250x250/p536677.png,England,p536677,15
+17,Alex Mighten,Forward,//resources.premierleague.com/premierleague/photos/players/250x250/p244930.png,England,p244930,15
+39,Chris Wood,Forward,//resources.premierleague.com/premierleague/photos/players/250x250/p60689.png,New Zealand,p60689,15
+34,André Ayew,Forward,//resources.premierleague.com/premierleague/photos/players/250x250/p45124.png,Ghana,p45124,15
+1,Alex McCarthy,Goalkeeper,//resources.premierleague.com/premierleague/photos/players/250x250/p58376.png,England,p58376,20
+13,Willy Caballero,Goalkeeper,//resources.premierleague.com/premierleague/photos/players/250x250/p20310.png,Argentina,p20310,20
+31,Gavin Bazunu,Goalkeeper,//resources.premierleague.com/premierleague/photos/players/250x250/p456350.png,Ireland,p456350,20
+2,Kyle Walker-Peters,Defender,//resources.premierleague.com/premierleague/photos/players/250x250/p158534.png,England,p158534,20
+4,Lyanco,Defender,//resources.premierleague.com/premierleague/photos/players/250x250/p212721.png,Brazil,p212721,20
+15,Romain Perraud,Defender,//resources.premierleague.com/premierleague/photos/players/250x250/p244560.png,France,p244560,20
+21,Tino Livramento,Defender,//resources.premierleague.com/premierleague/photos/players/250x250/p441191.png,England,p441191,20
+22,Mohammed Salisu,Defender,//resources.premierleague.com/premierleague/photos/players/250x250/p450527.png,Ghana,p450527,20
+35,Jan Bednarek,Defender,//resources.premierleague.com/premierleague/photos/players/250x250/p171771.png,Poland,p171771,20
+37,Armel Bella-Kotchap,Defender,//resources.premierleague.com/premierleague/photos/players/250x250/p477386.png,Germany,p477386,20
+6,Duje Caleta-Car,Defender,//resources.premierleague.com/premierleague/photos/players/250x250/p173271.png,Croatia,p173271,20
+28,Juan Larios,Defender,//resources.premierleague.com/premierleague/photos/players/250x250/p515571.png,Spain,p515571,20
+14,James Bree,Defender,//resources.premierleague.com/premierleague/photos/players/250x250/p184386.png,England,p184386,20
+8,James Ward-Prowse,Midfielder,//resources.premierleague.com/premierleague/photos/players/250x250/p101178.png,England,p101178,20
+17,Stuart Armstrong,Midfielder,//resources.premierleague.com/premierleague/photos/players/250x250/p91047.png,Scotland,p91047,20
+19,Moussa Djenepo,Midfielder,//resources.premierleague.com/premierleague/photos/players/250x250/p431131.png,Mali,p431131,20
+24,Mohamed Elyounoussi,Midfielder,//resources.premierleague.com/premierleague/photos/players/250x250/p96787.png,Norway,p96787,20
+27,Ibrahima Diallo,Midfielder,//resources.premierleague.com/premierleague/photos/players/250x250/p240143.png,France,p240143,20
+45,Roméo Lavia,Midfielder,//resources.premierleague.com/premierleague/photos/players/250x250/p514356.png,Belgium,p514356,20
+7,Joe Aribo,Midfielder,//resources.premierleague.com/premierleague/photos/players/250x250/p193204.png,Nigeria,p193204,20
+66,Diamond Edwards,Midfielder,//resources.premierleague.com/premierleague/photos/players/250x250/p484854.png,England,p484854,20
+3,Ainsley Maitland-Niles,Midfielder,//resources.premierleague.com/premierleague/photos/players/250x250/p154043.png,England,p154043,20
+26,Carlos Alcaraz,Midfielder,//resources.premierleague.com/premierleague/photos/players/250x250/p502697.png,Argentina,p502697,20
+20,Kamaldeen Sulemana,Midfielder,//resources.premierleague.com/premierleague/photos/players/250x250/p504783.png,Ghana,p504783,20
+65,Kamari Doyle,Midfielder,//resources.premierleague.com/premierleague/photos/players/250x250/p494541.png,England,p494541,20
+9,Adam Armstrong,Forward,//resources.premierleague.com/premierleague/photos/players/250x250/p155511.png,England,p155511,20
+10,Ché Adams,Forward,//resources.premierleague.com/premierleague/photos/players/250x250/p200439.png,Scotland,p200439,20
+32,Theo Walcott,Forward,//resources.premierleague.com/premierleague/photos/players/250x250/p20467.png,England,p20467,20
+18,Sékou Mara,Forward,//resources.premierleague.com/premierleague/photos/players/250x250/p476888.png,France,p476888,20
+53,Dominic Ballard,Forward,//resources.premierleague.com/premierleague/photos/players/250x250/p494543.png,England,p494543,20
+23,Samuel Edozie,Forward,//resources.premierleague.com/premierleague/photos/players/250x250/p490503.png,England,p490503,20
+46,Jimmy Morgan,Forward,//resources.premierleague.com/premierleague/photos/players/250x250/p493736.png,England,p493736,20
+11,Mislav Orsic,Forward,//resources.premierleague.com/premierleague/photos/players/250x250/p81205.png,Croatia,p81205,20
+12,Paul Onuachu,Forward,//resources.premierleague.com/premierleague/photos/players/250x250/p147611.png,Nigeria,p147611,20
+1,Hugo Lloris,Goalkeeper,//resources.premierleague.com/premierleague/photos/players/250x250/p37915.png,France,p37915,21
+40,Brandon Austin,Goalkeeper,//resources.premierleague.com/premierleague/photos/players/250x250/p214572.png,England,p214572,21
+20,Fraser Forster,Goalkeeper,//resources.premierleague.com/premierleague/photos/players/250x250/p40383.png,England,p40383,21
+41,Alfie Whiteman,Goalkeeper,//resources.premierleague.com/premierleague/photos/players/250x250/p175941.png,England,p175941,21
+17,Cristian Romero,Defender,//resources.premierleague.com/premierleague/photos/players/250x250/p221632.png,Argentina,p221632,21
+6,Davinson Sánchez,Defender,//resources.premierleague.com/premierleague/photos/players/250x250/p173904.png,Colombia,p173904,21
+12,Emerson Royal,Defender,//resources.premierleague.com/premierleague/photos/players/250x250/p241157.png,Brazil,p241157,21
+15,Eric Dier,Defender,//resources.premierleague.com/premierleague/photos/players/250x250/p93264.png,England,p93264,21
+25,Japhet Tanganga,Defender,//resources.premierleague.com/premierleague/photos/players/250x250/p199584.png,England,p199584,21
+33,Ben Davies,Defender,//resources.premierleague.com/premierleague/photos/players/250x250/p115556.png,Wales,p115556,21
+34,Clément Lenglet,Defender,//resources.premierleague.com/premierleague/photos/players/250x250/p171101.png,France,p171101,21
+3,Charlie Sayers,Defender,//resources.premierleague.com/premierleague/photos/players/250x250/p549793.png,England,p549793,21
+62,Marqes Muir,Defender,//resources.premierleague.com/premierleague/photos/players/250x250/p461202.png,England,p461202,21
+46,Malachi Fagan-Walcott,Defender,//resources.premierleague.com/premierleague/photos/players/250x250/p244853.png,England,p244853,21
+48,Maksim Paskotsi,Defender,//resources.premierleague.com/premierleague/photos/players/250x250/p505239.png,Estonia,p505239,21
+65,Alfie Dorrington,Defender,//resources.premierleague.com/premierleague/photos/players/250x250/p519321.png,England,p519321,21
+50,Kallum Cesay,Defender,//resources.premierleague.com/premierleague/photos/players/250x250/p461192.png,Sierra Leone,p461192,21
+23,Pedro Porro,Defender,//resources.premierleague.com/premierleague/photos/players/250x250/p441164.png,Spain,p441164,21
+5,Pierre-Emile Højbjerg,Midfielder,//resources.premierleague.com/premierleague/photos/players/250x250/p132015.png,Denmark,p132015,21
+19,Ryan Sessegnon,Midfielder,//resources.premierleague.com/premierleague/photos/players/250x250/p184349.png,England,p184349,21
+21,Dejan Kulusevski,Midfielder,//resources.premierleague.com/premierleague/photos/players/250x250/p445044.png,Sweden,p445044,21
+4,Oliver Skipp,Midfielder,//resources.premierleague.com/premierleague/photos/players/250x250/p209042.png,England,p209042,21
+30,Rodrigo Bentancur,Midfielder,//resources.premierleague.com/premierleague/photos/players/250x250/p202993.png,Uruguay,p202993,21
+14,Ivan Perisic,Midfielder,//resources.premierleague.com/premierleague/photos/players/250x250/p45034.png,Croatia,p45034,21
+38,Yves Bissouma,Midfielder,//resources.premierleague.com/premierleague/photos/players/250x250/p227127.png,Mali,p227127,21
+29,Pape Sarr,Midfielder,//resources.premierleague.com/premierleague/photos/players/250x250/p482442.png,Senegal,p482442,21
+8,Nile John,Midfielder,//resources.premierleague.com/premierleague/photos/players/250x250/p461212.png,England,p461212,21
+55,Romaine Mundle,Midfielder,//resources.premierleague.com/premierleague/photos/players/250x250/p461199.png,England,p461199,21
+57,Max Robson,Midfielder,//resources.premierleague.com/premierleague/photos/players/250x250/p461186.png,England,p461186,21
+16,Arnaut Danjuma,Midfielder,//resources.premierleague.com/premierleague/photos/players/250x250/p220307.png,Netherlands,p220307,21
+77,George Abbott,Midfielder,//resources.premierleague.com/premierleague/photos/players/250x250/p519327.png,England,p519327,21
+7,Son Heung-Min,Forward,//resources.premierleague.com/premierleague/photos/players/250x250/p85971.png,South Korea,p85971,21
+10,Harry Kane,Forward,//resources.premierleague.com/premierleague/photos/players/250x250/p78830.png,England,p78830,21
+27,Lucas Moura,Forward,//resources.premierleague.com/premierleague/photos/players/250x250/p95715.png,Brazil,p95715,21
+9,Richarlison,Forward,//resources.premierleague.com/premierleague/photos/players/250x250/p212319.png,Brazil,p212319,21
+16,Yago Alonso,Forward,//resources.premierleague.com/premierleague/photos/players/250x250/p492779.png,Spain,p492779,21
+62,Will Lankshear,Forward,//resources.premierleague.com/premierleague/photos/players/250x250/p552427.png,England,p552427,21
+63,Jamie Donley,Forward,//resources.premierleague.com/premierleague/photos/players/250x250/p513588.png,England,p513588,21
+1,Lukasz Fabianski,Goalkeeper,//resources.premierleague.com/premierleague/photos/players/250x250/p37096.png,Poland,p37096,25
+13,Alphonse Aréola,Goalkeeper,//resources.premierleague.com/premierleague/photos/players/250x250/p84182.png,France,p84182,25
+47,Krisztián Hegyi,Goalkeeper,//resources.premierleague.com/premierleague/photos/players/250x250/p483364.png,Hungary,p483364,25
+49,Joseph Anang,Goalkeeper,//resources.premierleague.com/premierleague/photos/players/250x250/p447879.png,England,p447879,25
+3,Aaron Cresswell,Defender,//resources.premierleague.com/premierleague/photos/players/250x250/p55459.png,England,p55459,25
+4,Kurt Zouma,Defender,//resources.premierleague.com/premierleague/photos/players/250x250/p103192.png,France,p103192,25
+21,Angelo Ogbonna,Defender,//resources.premierleague.com/premierleague/photos/players/250x250/p40669.png,Italy,p40669,25
+2,Ben Johnson,Defender,//resources.premierleague.com/premierleague/photos/players/250x250/p222018.png,England,p222018,25
+27,Nayef Aguerd,Defender,//resources.premierleague.com/premierleague/photos/players/250x250/p210494.png,Morocco,p210494,25
+24,Thilo Kehrer,Defender,//resources.premierleague.com/premierleague/photos/players/250x250/p201057.png,Germany,p201057,25
+75,Jamal Baptiste,Defender,//resources.premierleague.com/premierleague/photos/players/250x250/p462384.png,England,p462384,25
+33,Emerson,Defender,//resources.premierleague.com/premierleague/photos/players/250x250/p109533.png,Italy,p109533,25
+71,Regan Clayton,Defender,//resources.premierleague.com/premierleague/photos/players/250x250/p518427.png,England,p518427,25
+68,Oliver Scarles,Defender,//resources.premierleague.com/premierleague/photos/players/250x250/p536109.png,England,p536109,25
+65,Michael Forbes,Defender,//resources.premierleague.com/premierleague/photos/players/250x250/p513058.png,Northern Ireland,p513058,25
+70,Kaelan Casey,Defender,//resources.premierleague.com/premierleague/photos/players/250x250/p518438.png,England,p518438,25
+37,Luizão,Defender,//resources.premierleague.com/premierleague/photos/players/250x250/p518612.png,Brazil,p518612,25
+53,Levi Laing,Defender,//resources.premierleague.com/premierleague/photos/players/250x250/p450554.png,England,p450554,25
+8,Pablo Fornals,Midfielder,//resources.premierleague.com/premierleague/photos/players/250x250/p217593.png,Spain,p217593,25
+10,Manuel Lanzini,Midfielder,//resources.premierleague.com/premierleague/photos/players/250x250/p86934.png,Argentina,p86934,25
+41,Declan Rice,Midfielder,//resources.premierleague.com/premierleague/photos/players/250x250/p204480.png,England,p204480,25
+12,Flynn Downes,Midfielder,//resources.premierleague.com/premierleague/photos/players/250x250/p220585.png,England,p220585,25
+58,Kamarai Simon-Swyer,Midfielder,//resources.premierleague.com/premierleague/photos/players/250x250/p461030.png,England,p461030,25
+11,Lucas Paquetá,Midfielder,//resources.premierleague.com/premierleague/photos/players/250x250/p224024.png,Brazil,p224024,25
+62,Freddie Potts,Midfielder,//resources.premierleague.com/premierleague/photos/players/250x250/p490142.png,England,p490142,25
+59,Keenan Appiah-Forson,Midfielder,//resources.premierleague.com/premierleague/photos/players/250x250/p461079.png,England,p461079,25
+75,Lewis Orford,Midfielder,//resources.premierleague.com/premierleague/photos/players/250x250/p518442.png,England,p518442,25
+20,Jarrod Bowen,Forward,//resources.premierleague.com/premierleague/photos/players/250x250/p178186.png,England,p178186,25
+22,Saïd Benrahma,Forward,//resources.premierleague.com/premierleague/photos/players/250x250/p172841.png,Algeria,p172841,25
+7,Gianluca Scamacca,Forward,//resources.premierleague.com/premierleague/photos/players/250x250/p195899.png,Italy,p195899,25
+14,Maxwel Cornet,Forward,//resources.premierleague.com/premierleague/photos/players/250x250/p149519.png,Cote D’Ivoire,p149519,25
+72,Divin Mubama,Forward,//resources.premierleague.com/premierleague/photos/players/250x250/p487837.png,England,p487837,25
+18,Danny Ings,Forward,//resources.premierleague.com/premierleague/photos/players/250x250/p84939.png,England,p84939,25
+18,Danny Ings,Forward,//resources.premierleague.com/premierleague/photos/players/250x250/p84939.png,England,p84939,25
+1,José Sá,Goalkeeper,//resources.premierleague.com/premierleague/photos/players/250x250/p149065.png,Portugal,p149065,38
+13,Louie Moulden,Goalkeeper,//resources.premierleague.com/premierleague/photos/players/250x250/p242510.png,England,p242510,38
+25,Daniel Bentley,Goalkeeper,//resources.premierleague.com/premierleague/photos/players/250x250/p79602.png,England,p79602,38
+3,Rayan Aït-Nouri,Defender,//resources.premierleague.com/premierleague/photos/players/250x250/p448514.png,Algeria,p448514,38
+19,Jonny,Defender,//resources.premierleague.com/premierleague/photos/players/250x250/p114128.png,Spain,p114128,38
+22,Nélson Semedo,Defender,//resources.premierleague.com/premierleague/photos/players/250x250/p200402.png,Portugal,p200402,38
+23,Maximilian Kilman,Defender,//resources.premierleague.com/premierleague/photos/players/250x250/p214048.png,England,p214048,38
+24,Toti,Defender,//resources.premierleague.com/premierleague/photos/players/250x250/p510362.png,Portugal,p510362,38
+4,Nathan Collins,Defender,//resources.premierleague.com/premierleague/photos/players/250x250/p432830.png,Ireland,p432830,38
+64,Hugo Bueno,Defender,//resources.premierleague.com/premierleague/photos/players/250x250/p490721.png,Spain,p490721,38
+81,Dexter Lembikisa,Defender,//resources.premierleague.com/premierleague/photos/players/250x250/p492776.png,Jamaica,p492776,38
+15,Craig Dawson,Defender,//resources.premierleague.com/premierleague/photos/players/250x250/p60232.png,England,p60232,38
+14,Lewis Richards,Defender,//resources.premierleague.com/premierleague/photos/players/250x250/p437688.png,Ireland,p437688,38
+8,Rúben Neves,Midfielder,//resources.premierleague.com/premierleague/photos/players/250x250/p171317.png,Portugal,p171317,38
+10,Daniel Podence,Midfielder,//resources.premierleague.com/premierleague/photos/players/250x250/p200600.png,Portugal,p200600,38
+28,João Moutinho,Midfielder,//resources.premierleague.com/premierleague/photos/players/250x250/p19624.png,Portugal,p19624,38
+59,Joseph Hodge,Midfielder,//resources.premierleague.com/premierleague/photos/players/250x250/p240299.png,Ireland,p240299,38
+27,Matheus Nunes,Midfielder,//resources.premierleague.com/premierleague/photos/players/250x250/p465351.png,Portugal,p465351,38
+6,Boubacar Traoré,Midfielder,//resources.premierleague.com/premierleague/photos/players/250x250/p476502.png,Mali,p476502,38
+66,Harvey Griffiths,Midfielder,//resources.premierleague.com/premierleague/photos/players/250x250/p449133.png,England,p449133,38
+5,Mario Lemina,Midfielder,//resources.premierleague.com/premierleague/photos/players/250x250/p151086.png,Gabon,p151086,38
+21,Pablo Sarabia,Midfielder,//resources.premierleague.com/premierleague/photos/players/250x250/p88484.png,Spain,p88484,38
+35,João Gomes,Midfielder,//resources.premierleague.com/premierleague/photos/players/250x250/p448089.png,Brazil,p448089,38
+7,Pedro Neto,Forward,//resources.premierleague.com/premierleague/photos/players/250x250/p247632.png,Portugal,p247632,38
+9,Raúl Jiménez,Forward,//resources.premierleague.com/premierleague/photos/players/250x250/p102057.png,Mexico,p102057,38
+20,Chiquinho,Forward,//resources.premierleague.com/premierleague/photos/players/250x250/p510363.png,Portugal,p510363,38
+37,Adama Traoré,Forward,//resources.premierleague.com/premierleague/photos/players/250x250/p159533.png,Spain,p159533,38
+11,Hwang Hee-Chan,Forward,//resources.premierleague.com/premierleague/photos/players/250x250/p184754.png,South Korea,p184754,38
+18,Sasa Kalajdzic,Forward,//resources.premierleague.com/premierleague/photos/players/250x250/p429414.png,Austria,p429414,38
+29,Diego Costa,Forward,//resources.premierleague.com/premierleague/photos/players/250x250/p18507.png,Spain,p18507,38
+63,Nathan Fraser,Forward,//resources.premierleague.com/premierleague/photos/players/250x250/p531363.png,Ireland,p531363,38
+12,Matheus Cunha,Forward,//resources.premierleague.com/premierleague/photos/players/250x250/p430871.png,Brazil,p430871,38
